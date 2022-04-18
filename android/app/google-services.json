@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "876538915716",
+    "project_id": "auth-97281",
+    "storage_bucket": "auth-97281.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876538915716:android:7ba75693774e0d660fcbd1",
+        "android_client_info": {
+          "package_name": "com.example.covidfo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876538915716-1uklncicmh93vb3t01jnc65blmb82kkl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3-4NIlaeQjBU_VVBZy_taJA0bppbjp2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876538915716-1uklncicmh93vb3t01jnc65blmb82kkl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876538915716:android:654e4214054eede10fcbd1",
+        "android_client_info": {
+          "package_name": "com.example.sanberappflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876538915716-1uklncicmh93vb3t01jnc65blmb82kkl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3-4NIlaeQjBU_VVBZy_taJA0bppbjp2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876538915716-1uklncicmh93vb3t01jnc65blmb82kkl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
